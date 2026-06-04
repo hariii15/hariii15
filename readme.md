@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hariharpradeep</h1>
+  <img src="./banner.png" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&color=38bdf8&center=true&vCenter=true&width=500&height=70&lines=Hariharpradeep" alt="Hariharpradeep" />
   <p><i>AI & Machine Learning Engineer | Full Stack Developer</i></p>
   <br/>
   <img width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
@@ -59,6 +60,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariii15&bg_color=151515&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./meme.gif" alt="Meme" />
 </p>
 
 <br/>
