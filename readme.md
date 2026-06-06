@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./banner .jpg" alt="Banner" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&color=38bdf8&center=true&vCenter=true&width=500&height=70&lines=i'm, Hariharpradeep" alt="i'm Hariharpradeep" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&color=38bdf8&center=true&vCenter=true&width=500&height=70&lines=hariharpradeep" alt="Hariharpradeep" />
   <p><i>AI & Machine Learning Engineer | Full Stack Developer</i></p>
   <br/>
   <img width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
