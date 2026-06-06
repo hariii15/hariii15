@@ -23,8 +23,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,pytorch,opencv,react,nodejs,express,fastapi,mongodb,docker,kubernetes,github&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,pytorch,opencv,react,nodejs,express,fastapi,mongodb,docker,kubernetes,github,nextjs,electron&perline=8" alt="My Skills" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-1C3C3C?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
 </p>
 
 <br/>
