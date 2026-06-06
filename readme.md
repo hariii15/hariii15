@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="Banner" width="100%" />
+  <img src="./banner .jpg" alt="Banner" width="100%" />
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&color=38bdf8&center=true&vCenter=true&width=500&height=70&lines=Hariharpradeep" alt="Hariharpradeep" />
   <p><i>AI & Machine Learning Engineer | Full Stack Developer</i></p>
   <br/>
